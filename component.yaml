@@ -1,4 +1,5 @@
 name: "kured"
 generator: "helm"
-repo: "https://github.com/helm/charts"
+source: "https://github.com/helm/charts"
+method: "git"
 path: "stable/kured"
