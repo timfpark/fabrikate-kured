@@ -1,4 +1,4 @@
+namespace: "kube-system"
 config:
-  namespace: "kube-system"
   rbac:
     create: true
